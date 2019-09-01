@@ -1,0 +1,12 @@
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\NLog.config
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\MMA.Framework.Repositories.Mocks.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\MMA.Framework.Repositories.Mocks.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\MMA.Framework.Repositories.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\NLog.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\MMA.Framework.Repositories.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\bin\Debug\NLog.xml
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\obj\Debug\MMA.Framework.Repositories.Mocks.csprojAssemblyReference.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\obj\Debug\MMA.Framework.Repositories.Mocks.csproj.CoreCompileInputs.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\obj\Debug\MMA.Framework.Repositories.Mocks.csproj.CopyComplete
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\obj\Debug\MMA.Framework.Repositories.Mocks.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Mocks\obj\Debug\MMA.Framework.Repositories.Mocks.pdb

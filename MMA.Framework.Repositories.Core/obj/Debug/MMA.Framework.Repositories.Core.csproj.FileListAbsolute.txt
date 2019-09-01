@@ -1,0 +1,14 @@
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\NLog.config
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Repositories.Core.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Repositories.Core.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Models.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Repositories.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\NLog.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Models.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\MMA.Framework.Repositories.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\bin\Debug\NLog.xml
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\obj\Debug\MMA.Framework.Repositories.Core.csprojAssemblyReference.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\obj\Debug\MMA.Framework.Repositories.Core.csproj.CoreCompileInputs.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\obj\Debug\MMA.Framework.Repositories.Core.csproj.CopyComplete
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\obj\Debug\MMA.Framework.Repositories.Core.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories.Core\obj\Debug\MMA.Framework.Repositories.Core.pdb

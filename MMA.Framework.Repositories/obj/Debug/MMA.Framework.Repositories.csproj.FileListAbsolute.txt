@@ -1,0 +1,9 @@
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\bin\Debug\NLog.config
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\bin\Debug\MMA.Framework.Repositories.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\bin\Debug\MMA.Framework.Repositories.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\bin\Debug\NLog.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\bin\Debug\NLog.xml
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\obj\Debug\MMA.Framework.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\obj\Debug\MMA.Framework.Repositories.csproj.CopyComplete
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\obj\Debug\MMA.Framework.Repositories.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Repositories\obj\Debug\MMA.Framework.Repositories.pdb

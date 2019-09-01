@@ -1,0 +1,5 @@
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Models\bin\Debug\MMA.Framework.Models.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Models\bin\Debug\MMA.Framework.Models.pdb
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Models\obj\Debug\MMA.Framework.Models.csproj.CoreCompileInputs.cache
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Models\obj\Debug\MMA.Framework.Models.dll
+C:\Users\aidip\source\repos\MMA.WPF\MMA.Framework.Models\obj\Debug\MMA.Framework.Models.pdb
